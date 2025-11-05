@@ -1,3 +1,8 @@
+---
+title: "AI-OPTIMIZED INSTALLATION GUIDE: Finglow Pressure Vessel Software"
+id: "Finglow-PDF-Manual"
+---
+
 # AI-OPTIMIZED INSTALLATION GUIDE: Finglow Pressure Vessel Software
 
 This document has been reformatted from "Finglow Pressure Vessel Software Installation Guidance Notes" (Document No SP-8002, Issue 34, April 2024) to provide a structured, machine-readable format for AI consumption.
