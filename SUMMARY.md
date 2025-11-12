@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Getting Started](README.md)
-  * [AI-OPTIMIZED INSTALLATION GUIDE: Finglow Pressure Vessel Software](getting-started/Finglow-PDF-Manual.md)
+  * [INSTALLATION GUIDE: Finglow Pressure Vessel Software](getting-started/Finglow-PDF-Manual.md)
   * [Software Technical Support](getting-started/H8200.md)
   * [Finglow 3D File commands](getting-started/h9800.md)
   * [Finglow 2D File commands](getting-started/h9801.md)
@@ -10,6 +10,7 @@
   * [File Management and Conversion](getting-started/h9808.md)
   * [Importing a DesignCalcs Model](getting-started/h9809.md)
   * [Importing & Exporting to JSON](getting-started/h9810.md)
+  * [Finglow PDF Manual 2](getting-started/finglow-pdf-manual-2.md)
 * [PD 5500 Design Code](pd5500.md)
   * [PD 5500 - Shells - Internal Pressure](pd5500/h0001.md)
   * [PD 5500 - Shells - External Pressure](pd5500/h0002.md)
